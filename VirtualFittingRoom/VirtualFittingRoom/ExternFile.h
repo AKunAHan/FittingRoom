@@ -4,7 +4,7 @@
 //
 //  Created by liuweizhen on 15/9/29.
 //  Copyright (c) 2015年 愤怒的振振. All rights reserved.
-//   vhghhg
+//
 
 #import <Foundation/Foundation.h>
 
